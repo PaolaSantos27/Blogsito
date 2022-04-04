@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Holap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PaolaSantos27/Blog.git"
+  },
+  "author": "Paola Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaolaSantos27/Blog/issues"
+  },
+  "homepage": "https://github.com/PaolaSantos27/Blog#readme"
+}
